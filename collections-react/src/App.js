@@ -98,7 +98,7 @@ function App() {
         <>
          <div className="container">
            <br/>
-          <h1> 🔮 metaschool</h1>
+          <h1> 🔮 TEST NFT</h1>
           <h2>NFT Marketplace</h2>
           <p>Buy an NFT from our marketplace.</p>
   
@@ -116,7 +116,7 @@ function App() {
         <>
             <div className="container">
             <br/>
-            <h1> 🔮 metaschool</h1>
+            <h1> 🔮 TEST NFT</h1>
           
              <h2>NFT Marketplace</h2>
                 {data.map((item, index) => (
